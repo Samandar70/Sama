@@ -1,0 +1,37 @@
+.bag1{
+    height: 100px;
+    display: flex;
+    
+}
+.eee{
+    background-color: red;
+    height: 70px;
+    width: 100px;
+    flex-grow: 1;
+}
+.bag2{
+    height: 500px;
+    display: flex;
+}
+.w2{
+background-color: blueviolet;
+height: 130px;
+width: 170px;
+gap: 10px;
+flex-grow: 0;
+}
+.block2{
+    display: flex;
+    flex-grow: 5;
+    gap: 10px;
+}
+.w3{
+    background-color: blueviolet;
+    height: 50px;
+    width: 200px;
+}
+.w4{
+    background-color: aqua;
+    height: 50px;
+    width: 200px;
+}
